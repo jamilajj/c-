@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\METODS\METODS\bin\Debug\netcoreapp3.1\METODS.exe
+C:\Users\PC\source\repos\METODS\METODS\bin\Debug\netcoreapp3.1\METODS.deps.json
+C:\Users\PC\source\repos\METODS\METODS\bin\Debug\netcoreapp3.1\METODS.runtimeconfig.json
+C:\Users\PC\source\repos\METODS\METODS\bin\Debug\netcoreapp3.1\METODS.runtimeconfig.dev.json
+C:\Users\PC\source\repos\METODS\METODS\bin\Debug\netcoreapp3.1\METODS.dll
+C:\Users\PC\source\repos\METODS\METODS\bin\Debug\netcoreapp3.1\METODS.pdb
+C:\Users\PC\source\repos\METODS\METODS\obj\Debug\netcoreapp3.1\METODS.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\METODS\METODS\obj\Debug\netcoreapp3.1\METODS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\METODS\METODS\obj\Debug\netcoreapp3.1\METODS.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\METODS\METODS\obj\Debug\netcoreapp3.1\METODS.AssemblyInfo.cs
+C:\Users\PC\source\repos\METODS\METODS\obj\Debug\netcoreapp3.1\METODS.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\METODS\METODS\obj\Debug\netcoreapp3.1\METODS.dll
+C:\Users\PC\source\repos\METODS\METODS\obj\Debug\netcoreapp3.1\METODS.pdb
+C:\Users\PC\source\repos\METODS\METODS\obj\Debug\netcoreapp3.1\METODS.genruntimeconfig.cache
