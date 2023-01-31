@@ -38,27 +38,27 @@ namespace ConsoleApp1
 
 
 
-            //int[] nums = { 1, 2, 3, 36, 45, 46, 57, };
-            // bool hasWantedNumber = false;
+            int[] nums = { 1, 2, 3, 36, 45, 46, 57, };
+            bool hasWantedNumber = false;
 
-            //for (int i = 0; i < nums.Length; i++)
-            //{
-            //    if (nums[i] >0)
-            //    {
-            //        continue;
-            //    }
-            //    hasWantedNumber = true;
-            //    break;
+            for (int i = 0; i < nums.Length; i++)
+            {
+                if (nums[i] > 0)
+                {
+                    continue;
+                }
+                hasWantedNumber = true;
+                break;
 
-            //}
-            //if (hasWantedNumber == true)
-            //{
-            //    Console.WriteLine("var");
-            //}
-            //else
-            //{
-            //    Console.WriteLine("yox");
-            //}
+            }
+                 if (hasWantedNumber == true)
+                 {
+                     Console.WriteLine("var");
+                 }
+                   else 
+                   {
+                       Console.WriteLine("yox");
+                   }
 
 
 
@@ -120,7 +120,7 @@ namespace ConsoleApp1
 
 
 
-            double  count = 0;
+            double count = 0;
             double sum = 0;
             double[] nums = { 21, 15, 27, 42 };
 

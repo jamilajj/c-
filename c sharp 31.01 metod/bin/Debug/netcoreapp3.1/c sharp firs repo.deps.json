@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "c sharp firs repo/1.0.0": {
+        "runtime": {
+          "c sharp firs repo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "c sharp firs repo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
