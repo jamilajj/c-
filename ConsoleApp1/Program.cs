@@ -38,27 +38,27 @@ namespace ConsoleApp1
 
 
 
-            int[] nums = { 1, 2, 3, 36, 45, 46, 57, };
-            bool hasWantedNumber = false;
+            //int[] nums = { 1, 2, 3, 36, 45, 46, 57, };
+            //bool hasWantedNumber = false;
 
-            for (int i = 0; i < nums.Length; i++)
-            {
-                if (nums[i] > 0)
-                {
-                    continue;
-                }
-                hasWantedNumber = true;
-                break;
+            //for (int i = 0; i < nums.Length; i++)
+            //{
+            //    if (nums[i] > 0)
+            //    {
+            //        continue;
+            //    }
+            //    hasWantedNumber = true;
+            //    break;
 
-            }
-                 if (hasWantedNumber == true)
-                 {
-                     Console.WriteLine("var");
-                 }
-                   else 
-                   {
-                       Console.WriteLine("yox");
-                   }
+            //}
+            //     if (hasWantedNumber == true)
+            //     {
+            //         Console.WriteLine("var");
+            //     }
+            //       else 
+            //       {
+            //           Console.WriteLine("yox");
+            //       }
 
 
 
@@ -120,31 +120,55 @@ namespace ConsoleApp1
 
 
 
-            double count = 0;
-            double sum = 0;
-            double[] nums = { 21, 15, 27, 42 };
+            //double count = 0;
+            //double sum = 0;
+            //double[] nums = { 21, 15, 27, 42 };
 
-            for (int i = 0; i< nums.Length; i++) 
-            {
-                  if ( nums[i] % 21 == 0)
-                  {
-                    sum += nums[i];
-                    count++;
-                  }
-
-
-                Console.WriteLine (sum/count) ;
+            //for (int i = 0; i< nums.Length; i++) 
+            //{
+            //      if ( nums[i] % 21 == 0)
+            //      {
+            //        sum += nums[i];
+            //        count++;
+            //      }
 
 
+            //    Console.WriteLine (sum/count) ;
+            //string[] names = { "Hikmet", "Abbas", "Tofiq" };
+            //var result = String.Join(" - ", names);
+
+
+            //Console.WriteLine(result);
+            //string word = "Salam";
+            //Console.WriteLine(word.IndexOf("la"));
+
+
+
+            string []word = { "  Salam necesen" };
+            word = word.Trim();
+            int word2 = word.IndexOf(' ');
+
+            Console.WriteLine(word.Substring(0, word2));
+
+
+            //sehv kimi bir seydi 
+            //Console.WriteLine("fullname daxil edin ");
+            //string std = Console.ReadLine();
+            //if (std.Length < 3)
+            //{
+            //    Console.WriteLine("  yeniden fullname daxil edin ");
+
+            //    continue;
+            //}
+
+            //    Array.Resize(ref students, students.Length + 1);
+            //    students[students.Length - 1] = std;
+            //    break;
 
 
 
 
-
-
-
-
-
-        }   }
+        }
     }
+    
 }

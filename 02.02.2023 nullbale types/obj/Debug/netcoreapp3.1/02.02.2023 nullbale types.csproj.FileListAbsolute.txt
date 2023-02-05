@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\02.02.2023 nullbale types\02.02.2023 nullbale types\obj\Debug\netcoreapp3.1\02.02.2023 nullbale types.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\02.02.2023 nullbale types\02.02.2023 nullbale types\obj\Debug\netcoreapp3.1\02.02.2023 nullbale types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\02.02.2023 nullbale types\02.02.2023 nullbale types\obj\Debug\netcoreapp3.1\02.02.2023 nullbale types.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\02.02.2023 nullbale types\02.02.2023 nullbale types\obj\Debug\netcoreapp3.1\02.02.2023 nullbale types.AssemblyInfo.cs
+C:\Users\PC\source\repos\02.02.2023 nullbale types\02.02.2023 nullbale types\obj\Debug\netcoreapp3.1\02.02.2023 nullbale types.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\02.02.2023 nullbale types\02.02.2023 nullbale types\bin\Debug\netcoreapp3.1\02.02.2023 nullbale types.exe
+C:\Users\PC\source\repos\02.02.2023 nullbale types\02.02.2023 nullbale types\bin\Debug\netcoreapp3.1\02.02.2023 nullbale types.deps.json
+C:\Users\PC\source\repos\02.02.2023 nullbale types\02.02.2023 nullbale types\bin\Debug\netcoreapp3.1\02.02.2023 nullbale types.runtimeconfig.json
+C:\Users\PC\source\repos\02.02.2023 nullbale types\02.02.2023 nullbale types\bin\Debug\netcoreapp3.1\02.02.2023 nullbale types.runtimeconfig.dev.json
+C:\Users\PC\source\repos\02.02.2023 nullbale types\02.02.2023 nullbale types\bin\Debug\netcoreapp3.1\02.02.2023 nullbale types.dll
+C:\Users\PC\source\repos\02.02.2023 nullbale types\02.02.2023 nullbale types\bin\Debug\netcoreapp3.1\02.02.2023 nullbale types.pdb
+C:\Users\PC\source\repos\02.02.2023 nullbale types\02.02.2023 nullbale types\obj\Debug\netcoreapp3.1\02.02.2023 nullbale types.dll
+C:\Users\PC\source\repos\02.02.2023 nullbale types\02.02.2023 nullbale types\obj\Debug\netcoreapp3.1\02.02.2023 nullbale types.pdb
+C:\Users\PC\source\repos\02.02.2023 nullbale types\02.02.2023 nullbale types\obj\Debug\netcoreapp3.1\02.02.2023 nullbale types.genruntimeconfig.cache
