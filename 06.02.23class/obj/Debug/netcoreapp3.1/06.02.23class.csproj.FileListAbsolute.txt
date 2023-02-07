@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\06.02.23class\06.02.23class\bin\Debug\netcoreapp3.1\06.02.23class.exe
+C:\Users\PC\source\repos\06.02.23class\06.02.23class\bin\Debug\netcoreapp3.1\06.02.23class.deps.json
+C:\Users\PC\source\repos\06.02.23class\06.02.23class\bin\Debug\netcoreapp3.1\06.02.23class.runtimeconfig.json
+C:\Users\PC\source\repos\06.02.23class\06.02.23class\bin\Debug\netcoreapp3.1\06.02.23class.runtimeconfig.dev.json
+C:\Users\PC\source\repos\06.02.23class\06.02.23class\bin\Debug\netcoreapp3.1\06.02.23class.dll
+C:\Users\PC\source\repos\06.02.23class\06.02.23class\bin\Debug\netcoreapp3.1\06.02.23class.pdb
+C:\Users\PC\source\repos\06.02.23class\06.02.23class\obj\Debug\netcoreapp3.1\06.02.23class.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\06.02.23class\06.02.23class\obj\Debug\netcoreapp3.1\06.02.23class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\06.02.23class\06.02.23class\obj\Debug\netcoreapp3.1\06.02.23class.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\06.02.23class\06.02.23class\obj\Debug\netcoreapp3.1\06.02.23class.AssemblyInfo.cs
+C:\Users\PC\source\repos\06.02.23class\06.02.23class\obj\Debug\netcoreapp3.1\06.02.23class.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\06.02.23class\06.02.23class\obj\Debug\netcoreapp3.1\06.02.23class.dll
+C:\Users\PC\source\repos\06.02.23class\06.02.23class\obj\Debug\netcoreapp3.1\06.02.23class.pdb
+C:\Users\PC\source\repos\06.02.23class\06.02.23class\obj\Debug\netcoreapp3.1\06.02.23class.genruntimeconfig.cache
